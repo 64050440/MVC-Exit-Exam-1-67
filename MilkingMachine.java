@@ -1,4 +1,3 @@
-package model;
 
 public class MilkingMachine {
     private int id;

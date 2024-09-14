@@ -1,5 +1,3 @@
-import model.Cow;
-import model.MilkingMachine;
 import java.util.LinkedList;
 import java.util.Queue;
 

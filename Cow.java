@@ -1,4 +1,3 @@
-package model;
 
 public class Cow {
     private int id;

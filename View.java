@@ -1,6 +1,3 @@
-import model.Cow;
-import model.MilkingMachine;
-
 public class View {
 
     // แสดงสถานะของระบบการรีดนมทั้งหมด

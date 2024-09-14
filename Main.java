@@ -1,4 +1,3 @@
-import model.Cow;
 import java.util.Random;
 
 public class Main {
